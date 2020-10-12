@@ -1,4 +1,11 @@
+nav {
+	background-color: red;
+}
 
-nav a {
-	background-color: #0000FF;
+h1 {
+	font-style: italic;
+	font-family:  sans-serif;
+}
+
+p {
 }
